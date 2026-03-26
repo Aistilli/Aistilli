@@ -24,6 +24,7 @@
 #### Studying in this moment:
 
 ![.Net](https://img.shields.io/badge/.net-330F63?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-488207?style=for-the-badge&logo=node.js&logoColor=fff)&nbsp;
 
 #### Workstation Tools:
 
